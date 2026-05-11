@@ -32,7 +32,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ## 🚀 Projects
 
-### 1. TripMate - 여행 동행/일정 관리 서비스
+### 1. TripMate - 여행 동행/일정 관리 서비스 (2024.09 ~ 2025.01)
 
 `Java` `Spring Boot` `MySQL` `AWS EC2` `AWS RDS` `Docker` `GitHub`
 
@@ -46,21 +46,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ---
 
-### 2. 무하유 유해 콘텐츠 탐지 시스템
-
-`Python` `PyTorch` `YOLOv8` `CLIP` `KoBERT` `YAMNet` `SlowFast` `FFmpeg` `GitHub`
-
-> 이미지·비디오·오디오·텍스트 기반 멀티모달 유해 콘텐츠 탐지 프로젝트
-
-- **약 5,874개 클립 기반 멀티모달 데이터 파이프라인 구축**
-- 비디오 클립 분할, 오디오 추출, 텍스트 스텁 생성 자동화
-- 학습/검증 데이터 분리 및 **JSONL manifest 생성**
-- 클래스 불균형 문제를 분석하고 **Focal Loss, threshold 조정, validation loop 개선** 실험
-- 모델 구조 개선을 위해 **데이터 스키마 단순화, modality fallback 처리, GPU/CPU tensor 오류 수정**
-
----
-
-### 3. PDF 논문 이미지 기반 표절탐지 시스템
+### 2. (주)무하유 PDF 논문 이미지 기반 표절탐지 시스템 (2025.03 ~ 2025.07)
 
 `Python` `OpenCV` `PIL` `PyTorch` `PDF Processing` `Similarity Matching` `GitHub`
 
@@ -71,6 +57,20 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 - 원본 이미지와 변형 이미지 간 **유사도 기반 탐지 알고리즘 실험**
 - 딥러닝 기반 탐지 모델 실험을 통해 기존 방식의 한계와 개선 방향 분석
 - **데이터 수집부터 전처리, 실험, 결과 비교까지 전체 흐름 주도**
+
+---
+
+### 3. (주)무하유 유해 콘텐츠 탐지 시스템 (2025.08 ~ 2026.01)
+
+`Python` `PyTorch` `YOLOv8` `CLIP` `KoBERT` `YAMNet` `SlowFast` `FFmpeg` `GitHub`
+
+> 이미지·비디오·오디오·텍스트 기반 멀티모달 유해 콘텐츠 탐지 프로젝트
+
+- **약 5,874개 클립 기반 멀티모달 데이터 파이프라인 구축**
+- 비디오 클립 분할, 오디오 추출, 텍스트 스텁 생성 자동화
+- 학습/검증 데이터 분리 및 **JSONL manifest 생성**
+- 클래스 불균형 문제를 분석하고 **Focal Loss, threshold 조정, validation loop 개선** 실험
+- 모델 구조 개선을 위해 **데이터 스키마 단순화, modality fallback 처리, GPU/CPU tensor 오류 수정**
 
 ---
 
