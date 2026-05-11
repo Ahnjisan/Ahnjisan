@@ -152,7 +152,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 </p>
 
 <p>
-  <a href="https://www.notion.so/My-Portfolio-1de247251605801e9297c740a8ed688d?source=copy_link">
+  <a href="https://creative-nigella-4f4.notion.site/My-Portfolio-1de247251605801e9297c740a8ed688d?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
