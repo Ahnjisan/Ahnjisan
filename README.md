@@ -125,7 +125,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
----
+
 
 ## 📌 Currently Focused On
 
