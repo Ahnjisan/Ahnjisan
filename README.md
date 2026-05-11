@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm AHN JISAN 👋
+# 안지산 | BBBIC 💻
 
 ### Backend & Cloud / Data Engineer
 
