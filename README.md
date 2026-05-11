@@ -8,7 +8,7 @@ TripMate 프로젝트에서 Spring Boot 서버 배포와 클라우드 운영을 
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### TripMate - 여행 동행/일정 관리 서비스
 
