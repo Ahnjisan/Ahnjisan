@@ -139,9 +139,9 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ## 📫 Contact
 
-- Email: `your-email@example.com`
-- GitHub: [Ahnjisan](https://github.com/Ahnjisan)
-- Portfolio: [포트폴리오 바로가기](https://your-portfolio-link.com)
+- Email: `ahnjisan401@gmail.com`
+- GitHub: [Ahnjisan's Gitjub](https://github.com/Ahnjisan)
+- Portfolio: [Ahnjisan's Portfolio](https://your-portfolio-link.com)
 
 ---
 
