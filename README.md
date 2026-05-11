@@ -159,12 +159,3 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnjisan&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnjisan&layout=compact)
-
-</div>
