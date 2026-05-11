@@ -143,9 +143,15 @@ AWS EC2·RDS 기반 서비스 배포 경험과
   <a href="mailto:ahnjisan401@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahnjisan401%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p>
   <a href="https://github.com/Ahnjisan">
     <img src="https://img.shields.io/badge/GitHub-Ahnjisan-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
