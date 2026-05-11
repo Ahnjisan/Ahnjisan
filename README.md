@@ -46,7 +46,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ---
 
-### 2. (주)무하유 PDF 논문 이미지 기반 표절탐지 시스템 (2025.03 ~ 2025.07)
+### 2. (주)무하유 - PDF 논문 이미지 기반 표절탐지 시스템 (2025.03 ~ 2025.07)
 
 `Python` `OpenCV` `PIL` `PyTorch` `PDF Processing` `Similarity Matching` `GitHub`
 
@@ -60,7 +60,7 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ---
 
-### 3. (주)무하유 유해 콘텐츠 탐지 시스템 (2025.08 ~ 2026.01)
+### 3. (주)무하유 - 유해 콘텐츠 탐지 시스템 (2025.08 ~ 2026.01)
 
 `Python` `PyTorch` `YOLOv8` `CLIP` `KoBERT` `YAMNet` `SlowFast` `FFmpeg` `GitHub`
 
