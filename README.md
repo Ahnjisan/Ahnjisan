@@ -48,21 +48,11 @@ TripMate 프로젝트에서 **Spring Boot 서버 배포**와 **클라우드 운�
 
 ---
 
-### Node.js 기반 백엔드 실습 및 Docker 환경 구성
-
-`Node.js` `Express` `Docker` `Linux` `GitHub`
-
-- Node.js 라우터 구조, 서버 실행 방식, 포트 설정, **Docker 기반 실행 환경 학습**
-- 로컬 개발 환경과 컨테이너 실행 환경의 차이를 이해하고 **문제 상황별 디버깅 경험**
-- 백엔드 API 구조와 서버 실행 흐름에 대한 **기초 역량 강화**
-
----
-
 ## Skills
 
 | Category | Tech Stack |
 | --- | --- |
-| Backend | **Java, Spring Boot**, Node.js, Express |
+| Backend | **Java, Spring Boot** |
 | Cloud / Infra | **AWS EC2, AWS RDS, Docker, Linux** |
 | Database | **MySQL** |
 | Data Engineering | **Python, Pandas, JSONL, FFmpeg, Data Preprocessing** |
@@ -77,7 +67,6 @@ TripMate 프로젝트에서 **Spring Boot 서버 배포**와 **클라우드 운�
 - **AWS EC2, RDS를 활용한 클라우드 배포**
 - **Docker 기반 서비스 실행 환경 구성**
 - **데이터 수집·전처리·학습 파이프라인 자동화**
-- 코딩테스트를 위한 BFS, DFS, 구현, 백트래킹 문제 풀이
 
 ---
 
