@@ -1,7 +1,8 @@
 # 안지산(AHN JISAN) | Backend & Cloud / Data Engineer 👋
-백엔드와 클라우드 인프라, 데이터 파이프라인 구축에 관심을 가지고 성장하고 있는 개발자입니다.
+*백엔드와 클라우드 인프라, 데이터 파이프라인 구축에 관심을 가지고 성장하고 있는 개발자입니다.*
 
-AWS EC2·RDS 기반 서비스 배포와 데이터 파이프라인 구축 경험을 바탕으로 Backend & Cloud / Data Engineering 역량을 쌓고 있습니다.
+**AWS EC2·RDS 기반 서비스 배포와 데이터 파이프라인 구축 경험을 바탕으로 Backend & Cloud / Data Engineering 역량을 쌓고 있습니다.**
+
 TripMate 프로젝트에서 Spring Boot 서버 배포와 클라우드 운영을 담당했고, 무하유 유해 콘텐츠 탐지 프로젝트에서는 약 5,874개 멀티모달 데이터 전처리·학습 파이프라인을 구축했습니다.  
 또한 PDF 논문 이미지 기반 표절탐지 시스템에서 이미지 추출, 변형 데이터셋 생성, 유사도·딥러닝 기반 탐지 실험까지 주도하며 백엔드와 데이터 흐름을 연결하는 개발 경험을 쌓았습니다.
 
@@ -24,7 +25,7 @@ TripMate 프로젝트에서 Spring Boot 서버 배포와 클라우드 운영을 
 
 ### 무하유 유해 콘텐츠 탐지 시스템
 
-`Python` `PyTorch` `YOLOv8` `CLIP` `KoBERT` `YAMNet` `SlowFast` `FFmpeg`
+`Python` `PyTorch` `YOLOv8` `CLIP` `KoBERT` `YAMNet` `SlowFast` `FFmpeg` `GitHub`
 
 - 이미지·비디오·오디오·텍스트를 활용한 멀티모달 유해 콘텐츠 탐지 프로젝트 수행
 - 약 5,874개 클립 기반 데이터 전처리, 라벨링, 학습/검증 데이터 분리 파이프라인 구축
@@ -36,7 +37,7 @@ TripMate 프로젝트에서 Spring Boot 서버 배포와 클라우드 운영을 
 
 ### PDF 논문 이미지 기반 표절탐지 시스템
 
-`Python` `OpenCV` `PIL` `PyTorch` `PDF Processing` `Similarity Matching`
+`Python` `OpenCV` `PIL` `PyTorch` `PDF Processing` `Similarity Matching` `GitHub`
 
 - PDF 논문에서 이미지를 추출하고 표절 의심 변형 데이터를 생성하는 파이프라인 개발
 - crop, resolution, rotation, flip, grayscale, brightness, contrast, format 변환 등 다양한 변형 조건 설계
