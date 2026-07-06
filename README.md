@@ -2,7 +2,7 @@
 
 # 안지산 | BBBIC 💻
 
-### Backend & Cloud / Data Engineer
+### Backend & Cloud Engineer
 
 <img src="https://img.shields.io/badge/Backend Developer-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
