@@ -13,8 +13,8 @@
 
 **안정적인 백엔드 시스템과 운영 가능한 클라우드 환경을 설계하는 개발자입니다.**
 
-Spring Boot 기반 API 개발과 AWS EC2·RDS 환경의 서비스 배포 경험을 바탕으로
-Docker, CI/CD, Kubernetes와 모니터링 기술을 학습하며
+Spring Boot 기반 API 개발과 AWS EC2·RDS 환경의 서비스 배포 경험을 바탕으로 
+Docker, CI/CD, Kubernetes와 모니터링 기술을 학습하며 
 **Backend & Cloud / Data Engineering** 역량을 확장하고 있습니다.
 
 </div>
