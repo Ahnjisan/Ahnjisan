@@ -6,15 +6,15 @@
 
 <img src="https://img.shields.io/badge/Backend Developer-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Data Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br/>
 <br/>
 
-**백엔드와 클라우드 인프라, 데이터 파이프라인 구축에 관심을 가지고 성장하고 있는 개발자입니다.**
+**안정적인 백엔드 시스템과 운영 가능한 클라우드 환경을 설계하는 개발자입니다.**
 
-AWS EC2·RDS 기반 서비스 배포 경험과  
-멀티모달 데이터 전처리·학습 파이프라인 구축 경험을 바탕으로  
+Spring Boot 기반 API 개발과 AWS EC2·RDS 환경의 서비스 배포 경험을 바탕으로
+Docker, CI/CD, Kubernetes와 모니터링 기술을 학습하며
 **Backend & Cloud / Data Engineering** 역량을 확장하고 있습니다.
 
 </div>
@@ -23,8 +23,11 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 
 ## 🧭 About Me
 
-- **Spring Boot 기반 백엔드 서버 개발 및 AWS EC2 배포 경험**이 있습니다.
-- **MySQL / RDS 기반 데이터베이스 연동 및 운영 환경 구성**을 경험했습니다.
+- **Java와 Spring Boot 기반 백엔드 서버 및 REST API 개발 경험**이 있습니다.
+- Controller, Service, Repository 계층을 분리하고 **API와 데이터베이스 구조를 설계하는 과정**에 관심이 있습니다.
+- **AWS EC2·RDS 기반 서비스 배포와 운영 환경 구성**을 경험했습니다.
+- Docker, GitHub Actions, Kubernetes를 활용한 **일관된 배포 환경과 CI/CD 파이프라인 구축 역량**을 키우고 있습니다.
+- 로그, 메트릭, 트레이싱을 기반으로 **장애 원인을 추적하고 개선하는 운영과 Observability 관점의 개발을 지향**합니다.
 - 이미지, 비디오, 오디오, 텍스트를 다루는 **멀티모달 데이터 파이프라인**을 구축했습니다.
 - 데이터 수집, 전처리, 라벨링, 학습/검증 분리, 모델 실험까지 **데이터 흐름 전체를 설계하고 개선**한 경험이 있습니다.
 
@@ -71,6 +74,22 @@ AWS EC2·RDS 기반 서비스 배포 경험과
 - 학습/검증 데이터 분리 및 **JSONL manifest 생성**
 - 클래스 불균형 문제를 분석하고 **Focal Loss, threshold 조정, validation loop 개선** 실험
 - 모델 구조 개선을 위해 **데이터 스키마 단순화, modality fallback 처리, GPU/CPU tensor 오류 수정**
+
+---
+
+### 4. AI 기반 금융 이상거래 탐지·운영 플랫폼 (2026.07 ~ 진행 중)
+
+`Java 17` `Spring Boot` `Gradle` `JUnit` `PostgreSQL` `FastAPI` `Docker` `Kubernetes` `AWS` `GitHub Actions`
+
+> 금융거래와 사용자 행동을 분석해 이상거래를 탐지하고, 위험 대응과 FDS 담당자의 사건 처리를 지원하는 운영 플랫폼
+
+* **계좌이체·오픈뱅킹·ATM 인출과 거래 전후 사용자 행동을 결합한 FDS 업무 흐름 설계**
+* 신규 기기 고액 이체, 위험계좌 송금, 분산 송금, 입금 후 ATM 인출 등 **8개 핵심 이상거래 시나리오 정의**
+* Rule 기반 탐지와 ML 위험 분석을 결합하고, LOW·MEDIUM·HIGH·CRITICAL에 따른 **위험 기반 거래 대응 구조 설계**
+* Spring Boot 초기 환경 구축 및 **Controller·Service 계층을 분리한 Health Check API와 테스트 구현**
+* 고위험 사건의 탐지 근거와 행동 타임라인을 설명하는 **생성형 AI 분석 리포트 구조 설계**
+* LLM 호출 선별, 모델 라우팅, 리포트 캐싱과 토큰 사용량 측정을 통한 **AI 비용 최적화·FinOps 구조 설계**
+* 향후 PostgreSQL·FastAPI 연동, Docker·Kubernetes 배포, GitHub Actions CI/CD와 **로그·메트릭·트레이싱 기반 Observability 환경 구축 예정**
 
 ---
 
