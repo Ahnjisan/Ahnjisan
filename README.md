@@ -77,21 +77,25 @@ Docker, CI/CD, Kubernetes와 모니터링 기술을 학습하며
 
 ---
 
-### 4. AI 기반 금융 이상거래 탐지·운영 플랫폼 (2026.07 ~ 진행 중)
+### 4. FinGuardOps — Cloud Native 금융 AI FraudOps 플랫폼 (2026.07 ~ 진행 중)
 
-`Java 17` `Spring Boot` `Gradle` `JUnit` `PostgreSQL` `FastAPI` `Docker` `Kubernetes` `AWS` `GitHub Actions`
+`Java 17` `Spring Boot` `Gradle` `JUnit` `PostgreSQL` `FastAPI` `Redis` `Docker` `Kubernetes` `AWS` `GitHub Actions` `Prometheus` `Grafana`
 
-> 금융거래와 사용자 행동을 분석해 이상거래를 탐지하고, 위험 대응과 FDS 담당자의 사건 처리를 지원하는 운영 플랫폼
+> 금융거래와 사용자 행동을 기반으로 이상거래를 탐지하고, 위험 대응과 사건 처리를 지원하며, AI 서비스의 장애·성능·비용을 통합 관리하는 Cloud Native 금융 AI FraudOps 플랫폼
 
-* **계좌이체·오픈뱅킹·ATM 인출과 거래 전후 사용자 행동을 결합한 FDS 업무 흐름 설계**
-* 신규 기기 고액 이체, 위험계좌 송금, 분산 송금, 입금 후 ATM 인출 등 **8개 핵심 이상거래 시나리오 정의**
-* Rule 기반 탐지와 ML 위험 분석을 결합하고, LOW·MEDIUM·HIGH·CRITICAL에 따른 **위험 기반 거래 대응 구조 설계**
-* Spring Boot 초기 환경 구축 및 **Controller·Service 계층을 분리한 Health Check API와 테스트 구현**
-* 고위험 사건의 탐지 근거와 행동 타임라인을 설명하는 **생성형 AI 분석 리포트 구조 설계**
-* LLM 호출 선별, 모델 라우팅, 리포트 캐싱과 토큰 사용량 측정을 통한 **AI 비용 최적화·FinOps 구조 설계**
-* 향후 PostgreSQL·FastAPI 연동, Docker·Kubernetes 배포, GitHub Actions CI/CD와 **로그·메트릭·트레이싱 기반 Observability 환경 구축 예정**
+* 계좌이체·오픈뱅킹·ATM 인출과 로그인·신규 기기·비밀번호 변경 등 사용자 행동을 결합한 **금융 이상거래 탐지 및 사건 처리 흐름 설계**
+* 신규 기기 고액 이체, 위험계좌 송금, 단시간 분산 송금, 고액 입금 후 ATM 인출 등 **8개 핵심 이상거래 시나리오 정의**
+* Rule 기반 탐지와 ML 기반 복합 패턴 분석을 구분하고, `LOW`·`MEDIUM`·`HIGH`·`CRITICAL` 위험도에 따른 **승인·모니터링·추가 인증·거래 보류 대응 구조 설계**
+* 사건 진행 상태인 `caseStatus`와 조사 결과인 `finalDisposition`을 분리하고, 상태 변경 사유와 이전·이후 값을 기록하는 **사건 관리·감사 로그 원칙 정의**
+* Java 17·Spring Boot·Gradle 기반 백엔드 초기 환경을 구축하고, Controller·Service 계층을 분리한 **Health Check API와 단위·통합 테스트 구현**
+* Rule·ML이 위험 점수와 탐지 근거를 계산하고 생성형 AI는 고위험 사건의 근거·행동 타임라인을 요약하도록 **탐지 판단과 AI 리포트의 책임 분리**
+* LLM 장애가 거래 판단에 영향을 주지 않도록 템플릿 fallback을 적용하고, 사건·탐지 결과·프롬프트·모델 버전을 조합한 **정확 일치 리포트 캐시 원칙 설계**
+* 모델별 호출량·입출력 토큰·사건당 비용·캐시 적중률·fallback 비율을 측정하는 **AI 운영·FinOps 요구사항 정의**
+* FDS 분석 담당자와 플랫폼·클라우드 운영자의 책임을 구분하고, 서비스 Health·지연시간·오류율·DB Pool·Kafka Lag·AI 비용을 관리하는 **플랫폼 운영 요구사항 수립**
+* 핵심 거래·탐지·사건 기능을 우선 구현한 뒤 PostgreSQL·Redis·FastAPI 연동, Docker Compose, Kafka, CI/CD, Kubernetes·AWS와 **로그·메트릭·트레이싱 기반 Observability를 단계적으로 구축할 예정**
 
 ---
+
 
 ## 🛠 Tech Stack
 
