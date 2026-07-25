@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Backend Developer-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloud-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud Native-326CE5?style=for-the-badge&logo=cncf&logoColor=white" />
 
 <br/>
 <br/>
