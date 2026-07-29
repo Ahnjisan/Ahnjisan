@@ -27,7 +27,7 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 ## 🧭 About Me
 
 - 약 **5,874개 비디오 클립**을 대상으로 이미지·비디오·오디오·텍스트를 연결하는 멀티모달 데이터 파이프라인을 구축했습니다.
-- 유해 데이터 비율이 약 **8%**인 클래스 불균형 환경에서 평가 기준을 Accuracy가 아닌 F1-score 중심으로 재정의했습니다.
+- 유해 데이터 비율이 **약 8%인** 클래스 불균형 환경에서 평가 기준을 Accuracy가 아닌 F1-score 중심으로 재정의했습니다.
 - Focal Loss, threshold 조정, validation loop 개선을 통해 비디오 모델의 F1-score를 **0.7273에서 0.9878까지 개선**했습니다.
 - PDF 논문에서 추출한 이미지를 바탕으로 **500개 이상의 원본 이미지 데이터베이스**와 변형 이미지 데이터셋을 구성했습니다.
 - 여행 서비스 프로젝트에서 Spring Boot, EC2, ALB, RDS, S3, CloudFront를 연결한 AWS 배포 구조를 경험했습니다.
@@ -82,25 +82,23 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 
 ---
 
-### 2. TripMate — 여행 동행 및 일정 관리 서비스
+### 2. ㈜무하유 — PDF 논문 이미지 기반 표절 탐지 시스템
 
-`2024.09 ~ 2025.01`
+`2025.03 ~ 2025.07`
 
-`Java` `Spring Boot` `MySQL` `AWS EC2` `AWS RDS`  
-`ALB` `S3` `CloudFront` `Route 53` `ACM` `Docker`
+`Python` `OpenCV` `PIL` `PyTorch` `PDF Processing`  
+`Cosine Similarity` `SSIM` `pHash`
 
-> 여행 일정 공유와 동행자 매칭 기능을 제공하는 웹 서비스
+> PDF 논문의 이미지를 추출하고 변형 여부를 분석하는 표절 탐지 프로젝트
 
-- 백엔드 개발과 AWS 배포 영역 담당
-- Spring Boot API 서버를 EC2 환경에 배포
-- RDS 기반 MySQL 데이터베이스 구성
-- EC2 2대와 Application Load Balancer를 연결한 서버 구조 경험
-- React 정적 파일을 S3와 CloudFront를 통해 배포
-- Route 53과 ACM을 활용한 도메인·HTTPS 구성
-- VPC, 퍼블릭·프라이빗 서브넷, NAT Gateway, 보안 그룹 구성
-- 카카오 로그인과 프로필 등록 API 흐름 설계 및 연동
-- CORS, HTTPS, RDS 연결, 리다이렉트 흐름 문제 해결
-- NAT Gateway의 사용 시간과 비용을 분석하고 개발 환경의 고정 인프라 비용 문제 확인
+- PDF 파일에서 이미지 자동 추출
+- **500개 이상의 원본 이미지 데이터베이스** 구성
+- crop, rotation, flip, grayscale, brightness, contrast 등 변형 조건 설계
+- 원본·변형 이미지 쌍으로 표절 의심 데이터셋 생성
+- Cosine Similarity, SSIM, pHash 기반 탐지 성능 비교
+- Siamese Network와 Contrastive Loss 기반 딥러닝 방식 실험
+- 데이터 수집, 전처리, 모델 실험, 평가 결과 비교 과정 주도
+- 단순 유사도 기반 방식과 딥러닝 방식의 장단점 분석
 
 ---
 
@@ -125,32 +123,36 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 
 ---
 
-### 4. ㈜무하유 — PDF 논문 이미지 기반 표절 탐지 시스템
+### 4. TripMate — 여행 동행 및 일정 관리 서비스
 
-`2025.03 ~ 2025.07`
+`2024.09 ~ 2025.01`
 
-`Python` `OpenCV` `PIL` `PyTorch` `PDF Processing`  
-`Cosine Similarity` `SSIM` `pHash`
+`Java` `Spring Boot` `MySQL` `AWS EC2` `AWS RDS`  
+`ALB` `S3` `CloudFront` `Route 53` `ACM` `Docker`
 
-> PDF 논문의 이미지를 추출하고 변형 여부를 분석하는 표절 탐지 프로젝트
+> 여행 일정 공유와 동행자 매칭 기능을 제공하는 웹 서비스
 
-- PDF 파일에서 이미지 자동 추출
-- **500개 이상의 원본 이미지 데이터베이스** 구성
-- crop, rotation, flip, grayscale, brightness, contrast 등 변형 조건 설계
-- 원본·변형 이미지 쌍으로 표절 의심 데이터셋 생성
-- Cosine Similarity, SSIM, pHash 기반 탐지 성능 비교
-- Siamese Network와 Contrastive Loss 기반 딥러닝 방식 실험
-- 데이터 수집, 전처리, 모델 실험, 평가 결과 비교 과정 주도
-- 단순 유사도 기반 방식과 딥러닝 방식의 장단점 분석
+- 백엔드 개발과 AWS 배포 영역 담당
+- Spring Boot API 서버를 EC2 환경에 배포
+- RDS 기반 MySQL 데이터베이스 구성
+- EC2 2대와 Application Load Balancer를 연결한 서버 구조 경험
+- React 정적 파일을 S3와 CloudFront를 통해 배포
+- Route 53과 ACM을 활용한 도메인·HTTPS 구성
+- VPC, 퍼블릭·프라이빗 서브넷, NAT Gateway, 보안 그룹 구성
+- 카카오 로그인과 프로필 등록 API 흐름 설계 및 연동
+- CORS, HTTPS, RDS 연결, 리다이렉트 흐름 문제 해결
+- NAT Gateway의 사용 시간과 비용을 분석하고 개발 환경의 고정 인프라 비용 문제 확인
 
 ---
+
+
 
 ## 🎓 Education & Activities
 
 ### Education
 
-- **[학교명] [전공명]**
-  - `[입학 연도].03 ~ 2026.08 졸업 예정`
+- **한국항공대학교 소프트웨어학과**
+  - `2020.03 ~ 2026.08 졸업 예정`
   - 백엔드 개발, 데이터 처리, AI·클라우드 프로젝트 수행
 
 ### Bootcamp
@@ -169,10 +171,13 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 
 ### Community / Academic Activities
 
-- **[학회·동아리·커뮤니티명]**
+- **한국항공대학교 알고리즘 학회 'Koala'**
   - `[활동 기간]`
   - `[주요 활동 내용]`
 
+- **[학회·동아리·커뮤니티명]**
+  - `[활동 기간]`
+  - `[주요 활동 내용]`
 ---
 
 ## 📜 Certifications
@@ -186,6 +191,7 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 
 - 정보처리기사
 - SQLD
+- ADsP
 - AWS Certified Solutions Architect – Associate
 - OPIc IH 이상
 
