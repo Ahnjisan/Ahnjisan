@@ -200,6 +200,7 @@ Cloud Native 환경의 배포·운영, 비용 효율화까지 역량을 확장�
 - SQLD - (8/22 응시 완료, 결과 대기중)
 - OPIc IH 이상 - (현재 IM3 취득, 9월중 재응시 예정)
 - SAA (AWS Certified Solutions Architect – Associate) - (10~11월중 응시 예정)
+- DVA (AWS Certified Developer - Associate) - (10~11월중 응시 예정)
 - CKA (Certified Kubernetes Administrator) - (12~1월 응시 예정)
 
 ---
