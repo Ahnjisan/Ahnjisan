@@ -35,20 +35,22 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 - 🏫 **Korea Aerospace University** — B.S. in Software Engineering
 - 💼 **LG CNS AM Inspire Camp, 6th Cohort** — Jul 2026 – Present
   - Application Modernization · MSA · Cloud · Kubernetes · DevOps
+- 🧠 **Koala — Korea Aerospace University Algorithm Club** — Jul 2024 – Jun 2025
+  - Data Structures · Algorithms · Problem Solving · Peer Code Reviews
 
 ### 🏅 Certifications & Language
 
 **✅ Earned**
 
 - 📊 **ADsP** — Advanced Data Analytics Semi-Professional
+- 🗃️ **SQLD** — SQL Developer
 - 🗣️ **OPIc IH** — Intermediate High
 
 **📚 In Progress & Planned**
 
-- 🗃️ **SQLD** — SQL Developer
-- 📝 **Engineer Information Processing (정보처리기사)**
-- ☁️ **AWS SAA** — Solutions Architect – Associate
-- ☸️ **CKA** — Certified Kubernetes Administrator
+- 📝 **Engineer Information Processing (정보처리기사)** — Practical exam completed, result pending
+- ☁️ **AWS SAA** — Solutions Architect – Associate (Target: 2026)
+- ☸️ **CKA** — Certified Kubernetes Administrator (Target: Feb 2027)
 
 ---
 
