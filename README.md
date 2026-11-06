@@ -24,31 +24,42 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 
 **💻 Development & Data**
 
-![Development & Data](https://skillicons.dev/icons?i=java,spring,python,postgres)
+![Backend & Data](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql)
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js)
 
 ---
 
 ### 🎓 Education & Training
 
 - 🏫 **Korea Aerospace University** — B.S. in Software Engineering
-- 💼 **LG CNS AM Inspire Camp, 6th Cohort** — Jul 2026 ~ Present
+- 💼 **LG CNS AM Inspire Camp, 6th Cohort** — Jul 2026 – Present
   - Application Modernization · MSA · Cloud · Kubernetes · DevOps
 
 ### 🏅 Certifications & Language
 
+**✅ Earned**
+
 - 📊 **ADsP** — Advanced Data Analytics Semi-Professional
-- 🌐 **OPIc IH** — Intermediate High
+- 🗣️ **OPIc IH** — Intermediate High
+
+**📚 In Progress & Planned**
+
+- 🗃️ **SQLD** — SQL Developer
+- 📝 **Engineer Information Processing (정보처리기사)**
+- ☁️ **AWS SAA** — Solutions Architect – Associate
+- ☸️ **CKA** — Certified Kubernetes Administrator
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🏟️ [Sporty v2](https://github.com/batontouch-sporty/platform)
-**Team Project · MSA Observability & Reliability**
+**Deputy Team Lead · MSA Infrastructure, Observability & Reliability**
 
-Developed operational monitoring dashboards, integrated service metrics, and conducted Saga and failure-scenario testing in a distributed system.
+Contributed to MSA infrastructure observability through Prometheus/Grafana and service metrics integration, developed operational monitoring dashboards, and designed and executed Saga and failure-scenario tests.
 
-🔗 [Monitoring PR](https://github.com/batontouch-sporty/frontend/pull/42) · [AWS QA Report](https://github.com/batontouch-sporty/platform/blob/main/docs/testing/AWS_FINAL_QA_REPORT.md)
+🔗 [Dashboard PR](https://github.com/batontouch-sporty/frontend/pull/42) · [Infrastructure & Monitoring PR](https://github.com/batontouch-sporty/backend/pull/124) · [AWS QA Report](https://github.com/batontouch-sporty/platform/blob/main/docs/testing/AWS_FINAL_QA_REPORT.md)
 
 #### ☁️ TripMate
 **Team Project · AWS Infrastructure**
