@@ -6,9 +6,9 @@
 
 Backend development experience with a growing focus on cloud infrastructure, distributed systems, and operational reliability.
 
-[![Blog](https://img.shields.io/badge/Tech_Blog-Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white)](YOUR_TISTORY_URL)
+[![Blog](https://img.shields.io/badge/Tech_Blog-Tistory-EB531F?style=flat-square&logo=tistory&logoColor=white)]([YOUR_TISTORY_URL](https://bbbicsan.tistory.com/))
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahnjisan401@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/jisan-ahn-686a90419/))
 
 ---
 
