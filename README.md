@@ -83,6 +83,22 @@ Designing and developing an MSA-based developer training platform with independe
 
 Led a five-member team, developed backend integrations, and improved an external data retrieval flow from over 100 seconds to approximately 4.6 seconds.
 
+
+### 🌱 GitHub Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ahnjisan/Ahnjisan/main/profile-3d-contrib/profile-night-green.svg"
+  />
+  <img
+    alt="3D GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/Ahnjisan/Ahnjisan/main/profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+  />
+</picture>
+
+
 ---
 
 📌 *Detailed architecture decisions, implementation, and validation evidence are available in the linked repositories.*
