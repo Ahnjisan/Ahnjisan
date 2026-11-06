@@ -33,9 +33,9 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 ### 🎓 Education & Training
 
 - 🏫 **Korea Aerospace University** — B.S. in Software Engineering
-- 💼 **LG CNS AM Inspire Camp, 6th Cohort** — Jul 2026 – Present
+- 💼 **LG CNS AM Inspire Camp, 6th Cohort** — Jul 2026 ~ Present
   - Application Modernization · MSA · Cloud · Kubernetes · DevOps
-- 🧠 **Koala — Korea Aerospace University Algorithm Club** — Jul 2024 – Jun 2025
+- 🧠 **Koala — Korea Aerospace University Algorithm Club** — Jul 2024 ~ Jun 2025
   - Data Structures · Algorithms · Problem Solving · Peer Code Reviews
 
 ### 🏅 Certifications & Language
