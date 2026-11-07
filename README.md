@@ -63,7 +63,7 @@ Contributed to MSA infrastructure observability through Prometheus/Grafana and s
 
 🔗 [Dashboard PR](https://github.com/batontouch-sporty/frontend/pull/42) · [Infrastructure & Monitoring PR](https://github.com/batontouch-sporty/backend/pull/124) · [AWS QA Report](https://github.com/batontouch-sporty/platform/blob/main/docs/testing/AWS_FINAL_QA_REPORT.md)
 
-#### 🔬 Cloud Efficiency Lab
+#### 🔬 [Cloud Efficiency Lab](https://github.com/Ahnjisan/Cloud_Efficiency_Lab)
 **Personal Research Project · Cloud Cost & Resource Efficiency**
 
 Compared EC2 capacity options under Savings Plans, peak latency targets, and recovery requirements using a simulated cost model. Implemented and locally validated EBS waste-detection rules on synthetic volume data, then designed an evidence-based review and approval workflow.
