@@ -88,16 +88,16 @@ Building a microservices-based developer training platform with independent serv
 #### 📄 [PDF Image Plagiarism Detection](https://github.com/Ahnjisan/muhayu-pdf-image-plagiarism-detection)
 **Team Lead · Muhayu Project · Computer Vision**
 
-Led PDF figure extraction, dataset construction, and comparison of similarity baselines with a Siamese network. The contrastive model reached 96.7% F1 on the project dataset.
+Led PDF figure extraction, construction of a 30,000-pair dataset, and baseline benchmarking. The contrastive Siamese model reached 96.67% F1 and 0.9963 ROC AUC on the test set.
 
 🔗 [Experiment Results](https://github.com/Ahnjisan/muhayu-pdf-image-plagiarism-detection/blob/main/docs/12_experiment_results.md)
 
 #### 🛡️ [Multimodal Harmful Content Detection](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect)
 **Team Lead · Muhayu Project · Multimodal AI**
 
-Led the team and developed YOLO/CLIP-based image and video detection prototypes. The team evaluated models by category and integrated selected models into a Gradio demo.
+Led the team and developed YOLO/CLIP-based detectors that achieved validation F1 of 98.86% for images and 98.78% for video. The team integrated selected models into a Gradio demo.
 
-🔗 [Web Demo Code](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect--demo)
+🔗 [Model Results](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect/blob/main/%EC%95%88%EC%A7%80%EC%82%B0/%EB%AA%A8%EB%8D%B8_%EB%B0%9C%EC%A0%84_%EA%B3%BC%EC%A0%95/final_model11/%EC%B5%9C%EC%A2%85_%EB%AA%A8%EB%8D%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.md) · [Web Demo Code](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect--demo)
 
 ### 🌱 GitHub Contributions
 
