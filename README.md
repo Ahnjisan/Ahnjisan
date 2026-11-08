@@ -59,34 +59,34 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 #### 🏟️ [Sporty v2](https://github.com/batontouch-sporty/platform)
 **Deputy Team Lead · MSA Infrastructure, Observability & Reliability**
 
-Contributed to MSA infrastructure observability through Prometheus/Grafana and service metrics integration, developed operational monitoring dashboards, and designed and executed Saga and failure-scenario tests.
+Integrated service metrics into Prometheus and Grafana, built monitoring dashboards, and ran Saga and failure-scenario tests.
 
 🔗 [Dashboard PR](https://github.com/batontouch-sporty/frontend/pull/42) · [Infrastructure & Monitoring PR](https://github.com/batontouch-sporty/backend/pull/124) · [AWS QA Report](https://github.com/batontouch-sporty/platform/blob/main/docs/testing/AWS_FINAL_QA_REPORT.md)
 
 #### 🔬 [Cloud Efficiency Lab](https://github.com/Ahnjisan/Cloud_Efficiency_Lab)
 **Personal Research Project · Cloud Cost & Resource Efficiency**
 
-Completed 15 cloud cost and resource efficiency experiments covering modeled EC2/EBS costs and Savings Plans, synthetic EBS waste detection, local Docker/Kubernetes performance and rollback, and offline Terraform EC2/EBS Plan analysis. Built InfraFit, a read-only CLI that links synthetic billing, Terraform plans, and peak observations to explain change candidates, keep decisions, and holds. The MVP passed 11 end-to-end tests. Actual billing reconciliation and realized savings remain unverified.
+Ran 15 experiments on AWS costs, Terraform plans, and Docker/Kubernetes rollback, then built InfraFit, a read-only CLI validated by 11 end-to-end tests on synthetic data. Actual savings remain unverified.
 
 #### ☁️ TripMate
 **Team Project · AWS Infrastructure**
 
-Configured AWS infrastructure using EC2, ALB, RDS, S3, and CloudFront, including VPC networking, HTTPS, and infrastructure cost analysis.
+Configured EC2, ALB, RDS, S3, and CloudFront with VPC networking and HTTPS, and analyzed infrastructure costs.
 
 #### 🛡️ [FinGuardOps](https://github.com/Ahnjisan/FinGuardOps)
 **Personal Project · System Architecture & Reliability**
 
-Designed and implemented transaction idempotency, failure recovery boundaries, authentication, and observability, validated through local integration testing.
+Built transaction idempotency, recovery boundaries, authentication, and observability, then validated them with local integration tests.
 
 #### 🧩 [DevField](https://github.com/thedevfield)
 **Personal Project · Platform Architecture · In Progress**
 
-Designing and developing an MSA-based developer training platform with independent services, authentication, and explicit API contracts.
+Building a microservices-based developer training platform with independent services, authentication, and explicit API contracts.
 
 #### 🔎 [Where_is_it](https://github.com/Ahnjisan/Where_is_it)
 **Team Lead · API Integration**
 
-Led a five-member team, developed backend integrations, and improved an external data retrieval flow from over 100 seconds to approximately 4.6 seconds.
+Led five developers and built backend integrations, reducing external data retrieval time from over 100 seconds to about 4.6 seconds.
 
 
 ### 🌱 GitHub Contributions
