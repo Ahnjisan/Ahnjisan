@@ -85,11 +85,15 @@ Built transaction idempotency, recovery boundaries, authentication, and observab
 
 Building a microservices-based developer training platform with independent services, authentication, and explicit API contracts.
 
-#### 🔎 [Where_is_it](https://github.com/Ahnjisan/Where_is_it)
-**Team Lead · API Integration**
+#### 📄 [PDF Image Plagiarism Detection](https://github.com/Ahnjisan/muhayu-pdf-image-plagiarism-detection)
+**Team Lead · Muhayu Project**
 
-Led a five-member team and built backend integrations, reducing external data retrieval time from over 100 seconds to about 4.6 seconds.
+Led a team that extracted figures from research PDFs and compared image similarity methods with a Siamese network for plagiarism detection.
 
+#### 🛡️ Multimodal Harmful Content Detection
+**Team Lead · Muhayu Project**
+
+Led a team developing a multimodal system for harmful content detection.
 
 ### 🌱 GitHub Contributions
 
