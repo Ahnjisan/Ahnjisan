@@ -66,7 +66,7 @@ Contributed to MSA infrastructure observability through Prometheus/Grafana and s
 #### 🔬 [Cloud Efficiency Lab](https://github.com/Ahnjisan/Cloud_Efficiency_Lab)
 **Personal Research Project · Cloud Cost & Resource Efficiency**
 
-Compared EC2 capacity options under Savings Plans, peak latency targets, and recovery requirements using a simulated cost model. Implemented and locally validated EBS waste-detection rules on synthetic volume data, then designed an evidence-based review and approval workflow.
+Completed 15 cloud cost and resource efficiency experiments covering modeled EC2/EBS costs and Savings Plans, synthetic EBS waste detection, local Docker/Kubernetes performance and rollback, and offline Terraform EC2/EBS Plan analysis. Built InfraFit, a read-only CLI that links synthetic billing, Terraform plans, and peak observations to explain change candidates, keep decisions, and holds. The MVP passed 11 end-to-end tests. Actual billing reconciliation and realized savings remain unverified.
 
 #### ☁️ TripMate
 **Team Project · AWS Infrastructure**
