@@ -26,8 +26,6 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 
 ![Backend & Data](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql)
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js)
-
 ---
 
 ### 🎓 Education & Training
@@ -44,7 +42,7 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 
 - 📊 **ADsP** — Advanced Data Analytics Semi-Professional
 - 🗃️ **SQLD** — SQL Developer
-- 🗣️ **OPIc IH** — Intermediate High
+- 🗣️ **OPIc IM3** — Intermediate Mid 3
 
 **📚 In Progress & Planned**
 
