@@ -59,14 +59,14 @@ Backend development experience with a growing focus on cloud infrastructure, dis
 #### 🏟️ [Sporty v2](https://github.com/batontouch-sporty/platform)
 **Deputy Team Lead · MSA Infrastructure, Observability & Reliability**
 
-Integrated service metrics into Prometheus and Grafana, built monitoring dashboards, and ran Saga and failure-scenario tests.
+Designed the infrastructure architecture, integrated service metrics into Prometheus and Grafana, and built monitoring dashboards. Designed and ran Saga and failure-scenario tests.
 
 🔗 [Dashboard PR](https://github.com/batontouch-sporty/frontend/pull/42) · [Infrastructure & Monitoring PR](https://github.com/batontouch-sporty/backend/pull/124) · [AWS QA Report](https://github.com/batontouch-sporty/platform/blob/main/docs/testing/AWS_FINAL_QA_REPORT.md)
 
 #### 🔬 [Cloud Efficiency Lab](https://github.com/Ahnjisan/Cloud_Efficiency_Lab)
 **Personal Research Project · Cloud Cost & Resource Efficiency**
 
-Ran 15 experiments on AWS costs, Terraform plans, and Docker/Kubernetes rollback, then built InfraFit, a read-only CLI validated by 11 end-to-end tests on synthetic data. Actual savings remain unverified.
+Built InfraFit, a read-only CLI that combines synthetic billing, Terraform plans, and peak metrics to recommend changes, keep configurations, or defer decisions. Actual savings remain unverified.
 
 #### ☁️ TripMate
 **Team Project · AWS Infrastructure**
@@ -86,7 +86,7 @@ Building a microservices-based developer training platform with independent serv
 #### 🔎 [Where_is_it](https://github.com/Ahnjisan/Where_is_it)
 **Team Lead · API Integration**
 
-Led five developers and built backend integrations, reducing external data retrieval time from over 100 seconds to about 4.6 seconds.
+Led a five-member team and built backend integrations, reducing external data retrieval time from over 100 seconds to about 4.6 seconds.
 
 
 ### 🌱 GitHub Contributions
