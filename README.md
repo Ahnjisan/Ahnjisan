@@ -86,14 +86,18 @@ Built transaction idempotency, recovery boundaries, authentication, and observab
 Building a microservices-based developer training platform with independent services, authentication, and explicit API contracts.
 
 #### 📄 [PDF Image Plagiarism Detection](https://github.com/Ahnjisan/muhayu-pdf-image-plagiarism-detection)
-**Team Lead · Muhayu Project**
+**Team Lead · Muhayu Project · Computer Vision**
 
-Led a team that extracted figures from research PDFs and compared image similarity methods with a Siamese network for plagiarism detection.
+Led PDF figure extraction, dataset construction, and comparison of similarity baselines with a Siamese network. The contrastive model reached 96.7% F1 on the project dataset.
 
-#### 🛡️ Multimodal Harmful Content Detection
-**Team Lead · Muhayu Project**
+🔗 [Experiment Results](https://github.com/Ahnjisan/muhayu-pdf-image-plagiarism-detection/blob/main/docs/12_experiment_results.md)
 
-Led a team developing a multimodal system for harmful content detection.
+#### 🛡️ [Multimodal Harmful Content Detection](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect)
+**Team Lead · Muhayu Project · Multimodal AI**
+
+Led the team and developed YOLO/CLIP-based image and video detection prototypes. The team evaluated models by category and integrated selected models into a Gradio demo.
+
+🔗 [Web Demo Code](https://github.com/Ahnjisan/muhayu-multimodal-harmful-content-detect--demo)
 
 ### 🌱 GitHub Contributions
 
