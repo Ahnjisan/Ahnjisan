@@ -68,6 +68,8 @@ Designed the infrastructure architecture, integrated service metrics into Promet
 
 Built InfraFit, a read-only CLI that combines synthetic billing, Terraform plans, and peak metrics to recommend changes, keep configurations, or defer decisions. Actual savings remain unverified.
 
+🔗 [Final Research Report](https://github.com/Ahnjisan/Cloud_Efficiency_Lab/blob/main/FINAL-REPORT.md)
+
 #### ☁️ TripMate
 **Team Project · AWS Infrastructure**
 
